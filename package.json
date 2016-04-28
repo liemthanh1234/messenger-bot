@@ -1,0 +1,22 @@
+{
+  "name": "mbot",
+  "version": "1.0.0",
+  "description": "Ban co that la bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liemthanh1234/messenger-bot.git"
+  },
+  "author": "liemthanh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liemthanh1234/messenger-bot/issues"
+  },
+  "homepage": "https://github.com/liemthanh1234/messenger-bot#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
